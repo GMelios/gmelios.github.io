@@ -12,7 +12,7 @@ title                    : "George Melios / Website"
 title_separator          : "-"
 name                     : &name "George Melios "
 description              : &description "Political Economy"
-URL                      : "https://gmelios.github.io"
+URL                      : https://gmelios.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://gmelios.github.io/gmelios"
 
