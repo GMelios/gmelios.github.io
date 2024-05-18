@@ -10,20 +10,12 @@ redirect_from:
 Hi! Welcome to my website!
 
 
-My name is George, I am a Researcher and Lecturer at the Department of Psychological & Behavioural Science at the London School of Economics and a Research Advisor at Gallup. In 2019, I founded a company specialising in evaluating and designing policies, the Ethos Lab – Centre for Governance and Sustainability Research
+My name is George and my academic work is at the intersection of political economy and behavioural science. Here you can find my CV, Publications, Working papers, Teaching, and Policy.
 
-My research primarily focuses on what people think and subsequently do.
 
-I use applied microeconometrics (quasi-experiments) and experimental methods to examine behavioural phenomena in politics and economics with large, naturally occurring data sets.
+My research primarily focuses on the foundations of democracy: how democratic institutions function, how citizens interact with them and how they can be improved. I look at the electoral cycle through four essential angles: i) the factors that affect citizens’ participation, ii) those that shape their preferences, iii) the effect of elections on policies and welfare, and iv) collective decision making when institutions fail.
 
-Research
 
-You can find my current work under Papers as well as on SSRN and OSF, and current projects under Research.
+While my individual papers focus on just one or two of these steps at a time, my research as a whole seeks to paint a fresh and articulated picture of how democracy works, from how voters think and act to the output of democratic processes.
 
-My work has been covered in media such as The Economist, The Nation, The Daily Caller as well as To Vima and Kathimerini (in Greek).
-
-Please also find details about my Fieldwork and Research Team.
-
-Teaching
-
-Currently teaching an M.Sc. course on causal inference for Behavioural Science. You can details on the course website and for older classes under Teaching.
+Currently I am Research Fellow and Lecturer (Teaching) at the Department of Psychological & Behavioural Science of London School of Economics, a Senior Research Fellow (Hon.) at the Institute for Global Prosperity of UCL, and a Research Advisor at Gallup. In 2019, I co-founded a Greek SME specialising in evaluating and designing policies that promote welfare, the Ethos Lab – Centre for Governance and Sustainability Research.

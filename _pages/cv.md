@@ -20,7 +20,6 @@ Work experience
 * 2021- Present: Researcher
   * London School of Economics and Political Science 
   
-
 * 2022- Present: Lecturer / Module leader
   * London School of Economics and Political Science 
   * M.Sc. in Behavioural Science - Quantitative Applications for Behavioural Science (PB4A7)
@@ -30,4 +29,4 @@ Work experience
   
 * 2019- Present: Co-founder 
   * Ethos Lab PC - Centre for Governance and Sustainability
-  
+
