@@ -1,12 +1,10 @@
 ---
 title: "Origin of (A)symmetry: The Evolution of Out-Party Distrust in the United States"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/asymmetry
 excerpt: ' Mirroring the general rise in polarization, we document a steady increase in the effect both on the right and on the left. Contrasting the narrative that polarization is stronger on the right, however, we find evidence that the president-in-power effect has grown stronger among Democrats than Republicans. To explain this finding, we show that highly educated people, who display a stronger president-in-power effect than lower educated people, have shifted towards the left in recent years. Taken together, our results paint a nuanced picture of asymmetric polarization picture that highlights the importance of studying the evolution of partisan biases over time.'
 date: 2024-01-04
 venue: 'Journal of Politics'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4404221'
-citation: 'Klein Teeselink, B. and Melios, G., 2023. &quot;Origin of (A) symmetry: The Evolution of Out-Party Distrust in the United States.&quot; <i>Journal of Politics</i>. Forthcoming.'
 ---
 
-Research in political psychology suggests that conservatives are more certainty-seeking than liberals, which makes them less receptive to information that conflicts with their political identity and more predisposed towards in-group/out-group bias. As a consequence, some argue that polarization is stronger on the right than on the left and that conservatives are more likely to support governments run by their own side and more distrustful of governments run by their political opponents. This so-called asymmetric president-in-power effect might tilt the political playing field in favor of Republicans. The current paper calls into question some of these findings by examining the evolution of the president-in-power effect between 1974 and 2021. Mirroring the general rise in polarization, we document a steady increase in the effect both on the right and on the left. Contrasting the narrative that polarization is stronger on the right, however, we find evidence that the president-in-power effect has grown stronger among Democrats than Republicans. To explain this finding, we show that highly educated people, who display a stronger president-in-power effect than lower educated people, have shifted towards the left in recent years. Taken together, our results paint a nuanced picture of asymmetric polarization picture that highlights the importance of studying the evolution of partisan biases over time.
